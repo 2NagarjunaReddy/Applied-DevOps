@@ -10,7 +10,7 @@ systemctl status squid.service
 
 sudo nano /etc/squid/squid.conf
 
-`  `Search for http\_access deny all change it to http\_access deny all  
+Search for http\_access deny all change it to http\_access deny all  
 
 **Step 2 — Securing Squid**
 
